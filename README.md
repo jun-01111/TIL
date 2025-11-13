@@ -21,11 +21,11 @@ Today I Learned..
 
 - git add: 변경 사항을 Working Directory에서 Staging Area로 올립니다.
 
--git commit: Staging Area의 변경 사항을 Local Repository에 버전으로 기록(스냅샷)합니다.
+- git commit: Staging Area의 변경 사항을 Local Repository에 버전으로 기록(스냅샷)합니다.
 
--git push: Local Repository의 커밋을 Remote Repository로 업로드합니다.
+- git push: Local Repository의 커밋을 Remote Repository로 업로드합니다.
 
--git pull: Remote Repository의 최신 버전을 Local Repository로 가져옵니다.
+- git pull: Remote Repository의 최신 버전을 Local Repository로 가져옵니다.
 
 
 ## 좋은 커밋을 위한 도구
@@ -48,6 +48,6 @@ Today I Learned..
 
 - git switch [이름]: 해당 브랜치로 작업 환경을 이동(전환)합니다.
 
--git merge [이름]: 다른 브랜치에서 작업한 내용을 현재 브랜치로 병합(합치기)합니다.
+- git merge [이름]: 다른 브랜치에서 작업한 내용을 현재 브랜치로 병합(합치기)합니다.
 
 - git branch -D [이름]: 브랜치를 삭제합니다.
